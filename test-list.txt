@@ -1,13 +1,8 @@
 ablHill3d_ii:4
 ablHill3d_ip:4
 ablHill3d_pp:4
-ablNeutralNGPHypre:2
-ablNeutralNGPHypreSegregated:2
-ablNeutralNGPTrilinos:2
 ablStableEdge:4
 ablStableElem:4
-ablUnstableEdge:4
-ablUnstableEdge_ra:4
 ActLineSimple:4
 ActLineSimpleFLLC:4
 ActLineSimpleNGP:2
