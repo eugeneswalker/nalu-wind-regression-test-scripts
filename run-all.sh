@@ -1,3 +1,8 @@
+# README
+# 1. Source Spack
+# 2. Load nalu-wind
+# 3. Run this script
+
 #!/bin/bash -e
 
 if [[ ! -d nalu-wind ]] ; then
